@@ -21,3 +21,11 @@ def using_shift(array)
   first_item = array.shift
   p first_item
 end
+
+def shift_with_args(array)
+  array.shift(2)
+end
+
+def concat(array1, array2)
+  arrray1.conact(array2)
+end
